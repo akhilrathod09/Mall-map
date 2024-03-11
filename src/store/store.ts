@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import Nike from '../assets/images/Nike.jpg';
 import Cuisine from '../assets/images/cuisine.jpg';
-import Zara from '../assets/images/zara.jpg';
+import Zara from '../assets/images/Zara.jpg';
 
 const STORES = [
 	{
