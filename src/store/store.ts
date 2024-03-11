@@ -8,7 +8,7 @@ const STORES = [
 		id: 1,
 		name: 'ZARA',
 		type: 'clothing shop',
-		image: Zawa,
+		image: Zara,
 		positions: [-1, 8, 40],
 	},
 	{
@@ -22,7 +22,7 @@ const STORES = [
 		id: 3,
 		name: 'NIKE',
 		type: 'shoes shop',
-		image: CBC,
+		image: Nike,
 		positions: [38, 8, 35],
 	},
 	{
