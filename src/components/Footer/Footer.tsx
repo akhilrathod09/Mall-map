@@ -5,7 +5,7 @@ export default function Footer() {
 		<Container>
 			<h1></h1>
 			<Disclaimer>
-				created by <a href='https://transcendent-sundae-2b02d9.netlify.app/'>Akhil Rathod</a>
+				created by <a href='https://akhilrathod-portfolio.netlify.app/'>Akhil Rathod</a>
 			</Disclaimer>
 		</Container>
 	);
